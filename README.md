@@ -1,5 +1,10 @@
 # Desafio de Power BI - Relatório de Vendas
 
+### Esses são prints de como ficou o relatório publicado.
+<img width="1160" alt="image" src="https://github.com/VanessaVPG/Power-BI---Relat-rio-Criativo/assets/79724427/6d5623d6-4f5c-40cd-9038-e78cb0002cb8">
+<img width="1226" alt="image" src="https://github.com/VanessaVPG/Power-BI---Relat-rio-Criativo/assets/79724427/eaec80ca-ad0c-4d4d-b1e6-a8574ae0d70c">
+
+
 ## Descrição do Projeto
 
 Neste desafio, desenvolvi um relatório detalhado no Power BI com base nos dados de exemplo fornecidos no repositório [Power BI Analyst](https://github.com/julianazanelatto/power_bi_analyst). O objetivo era criar um relatório de vendas mais elaborado, seguindo as diretrizes estabelecidas.
@@ -25,4 +30,7 @@ Para criar os elementos da primeira página do relatório, segui os vídeos de p
 ## Publicação no Power BI Service
 Após concluir o relatório, o publiquei no Power BI Service para disponibilizá-lo online. Isso facilita o compartilhamento e o acesso.
 
+
 Este desafio foi uma oportunidade valiosa para aprofundar meu conhecimento em Power BI e fortalecer meu portfólio.
+
+
