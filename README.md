@@ -19,9 +19,6 @@ Para tornar o relatório mais interativo, incluí segmentadores de dados e botõ
 ## Seleção de Visuais
 Segui as instruções para criar indicadores e botões que permitem aos usuários escolher diferentes visuais de dados sobre um mesmo tópico. Isso torna o relatório mais flexível e informativo.
 
-## Desafios Extras
-Além das diretrizes do desafio, adicionei alguns recursos extras para tornar o relatório ainda mais envolvente e atraente. Isso inclui melhorias nos botões e no design geral.
-
 ## Passo a Passo
 Para criar os elementos da primeira página do relatório, segui os vídeos de passo a passo de acordo com o desafio. A segunda página realizei de acordo com o layout proposto no desafio.
 
